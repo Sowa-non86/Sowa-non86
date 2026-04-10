@@ -6,7 +6,7 @@ on:
   workflow_dispatch:
 
 permissions:
-  contents: write   # 👈 THIS FIXES YOUR ERROR
+  contents: write   # 👈 MUST be here (top-level, not inside jobs)
 
 jobs:
   snake:
