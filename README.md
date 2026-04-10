@@ -1,5 +1,5 @@
 <!-- HEADER BANNER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:7F77DD,100:1D9E75&text=Hi,%20I'm%20Swanand%20%F0%9F%91%8B&fontSize=42&fontColor=fff&fontAlignY=55&desc=Unity%20%C2%B7%20Flutter%20%C2%B7%20Full-Stack%20%7C%20Pune,%20India&descAlignY=75&descSize=18"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:7F77DD,100:1D9E75&text=Hi,%20I'm%20Swanand%20Garge%20%F0%9F%91%8B&fontSize=42&fontColor=fff&fontAlignY=55&desc=Unity%20%C2%B7%20Flutter%20%C2%B7%20Full-Stack%20%7C%20Pune,%20India&descAlignY=75&descSize=18"/>
 
 <!-- STATUS BADGES -->
 <p align="center">
